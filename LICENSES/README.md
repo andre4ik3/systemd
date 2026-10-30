@@ -49,6 +49,7 @@ The following exceptions apply:
    scripts, to facilitate copying and reuse of those helpers to other projects):
    - hwdb.d/parse_hwdb.py
    - src/include/uapi/linux/batman_adv.h
+   - src/include/override/linux/amneziawg.h (dual-licensed with GPL-2.0 WITH Linux-syscall-note)
    - src/basic/sparse-endian.h
    - tools/catalog-report.py
  * the following sources are licensed under the **CC0-1.0** license:
